@@ -1,0 +1,9 @@
+{
+  "domain": "icloud_photo_downloader",
+  "name": "iCloud Photo Downloader",
+  "version": "1.0.0",
+  "documentation": "https://github.com/arogers86/home-assistant-icloud-photo-downloader",
+  "dependencies": [],
+  "codeowners": ["@arogers86"],
+  "requirements": []
+}

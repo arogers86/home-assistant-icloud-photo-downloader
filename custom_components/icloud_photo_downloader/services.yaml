@@ -1,0 +1,6 @@
+download_photos:
+  description: "Download a single random photo from iCloud shared album"
+  fields:
+    entity_name:
+      description: "Name of the image entity"
+      example: "iCloud Photo"
